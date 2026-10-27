@@ -1,0 +1,13 @@
+Metric,Value
+Total cleaned rows,536641.0
+Unique invoices including cancellations,25900.0
+Unique identified customers,4372.0
+Positive sales line count,524878.0
+Positive sales invoice count,19960.0
+Positive sales value,10642110.804000001
+Negative-quantity non-cancellation line count,0.0
+Negative-quantity line value (absolute),0.0
+Cancellation line count,9251.0
+Cancellation signed value,-893979.73
+Distinct products,4070.0
+Distinct countries,38.0
